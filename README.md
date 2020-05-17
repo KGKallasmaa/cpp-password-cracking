@@ -31,7 +31,7 @@ make test
 Test count: 13
 ```
 
-#Functionality
+# Functionality
 
 The code can perform four tasks:
 
